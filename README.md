@@ -1,5 +1,5 @@
 # A hybrid VCBM-PDE model for localised gemcitabine therapy for the treatment of pancreatic cancer
-This code accompanies the manuscript "Examining the efficacy of localised gemcitabine therapy for the treatment of pancreatic cancer using a hybrid agent-base model" by Adrianne L Jenner<sup></sup>, Wayne Kelly2, Michael Dallaston1, Robyn Araujo1, Isobelle Parfitt1, Dominic Steinz3,4, Pantea Pooladvand5, Peter S. Kim5, Samantha J Wade6,7, Kara L. Vine6,7,
+This code accompanies the manuscript "Examining the efficacy of localised gemcitabine therapy for the treatment of pancreatic cancer using a hybrid agent-base model" by Adrianne L Jenner<sup>1</sup>, Wayne Kelly2, Michael Dallaston1, Robyn Araujo1, Isobelle Parfitt1, Dominic Steinz3,4, Pantea Pooladvand5, Peter S. Kim5, Samantha J Wade6,7, Kara L. Vine6,7,
 
 1School of Mathematical Sciences, Queensland University of Technology, Brisbane, QLD, Australia,
 2School of Computer Science, Queensland University of Technology, Brisbane, QLD, Australia,
