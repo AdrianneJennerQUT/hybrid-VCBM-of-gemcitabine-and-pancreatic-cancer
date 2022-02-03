@@ -12,3 +12,4 @@ This code accompanies the manuscript *"Examining the efficacy of localised gemci
 In this repository is the code for simulating the Voronoi Cell-Based Model-partial differential equaiton (VCBM-PDE) for gemctiabine treatment of pancreatic cancer. Full code documentation can be found accompaning the manuscript with a QuickStart guide. 
 
 To simulate the model, simulate download the code and run "Commands" through MATLAB. 
+![ControlGrowth](https://user-images.githubusercontent.com/85978071/152262842-950fbb47-dcd1-4da0-9c19-1c6bae2230b0.png)
